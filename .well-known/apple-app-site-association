@@ -1,11 +1,7 @@
 {
-     "applinks": {
-         "apps": [],
-         "details": [
-             {
-                 "appID": "P8F3J2HK3Y.Douxinbao.com.Jhuishou",
-                 "paths": [ "*" ]
-             }
-         ]
-     }
- }
+  "webcredentials": {
+    "apps": [
+      "653B63AP98.com.starlight.mobile.ios.onerepair"
+    ]
+  }
+}
